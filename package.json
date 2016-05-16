@@ -1,0 +1,27 @@
+{
+  "name": "elixir-mjml",
+  "version": "1.0.1",
+  "description": "A task plugin for running MJML templates in Laravel Elixir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/peterfox/laravel-elixir-mjml.git"
+  },
+  "keywords": [
+    "Laravel",
+    "Elixir",
+    "mjml",
+    "gulp"
+  ],
+  "dependencies": {
+    "laravel-elixir": "^4.0.0",
+    "gulp": "^3.8.8",
+    "gulp-mjml": "^1.0.1",
+    "gulp-rename": "^1.0.0"
+  },
+  "author": "Peter Fox <peter.fox@peterfox.me>",
+  "license": "MIT"
+}
