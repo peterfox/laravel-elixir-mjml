@@ -5,7 +5,6 @@
 var gulp = require('gulp'),
     mjml = require('gulp-mjml'),
     rename = require('gulp-rename');
-    Elixir = require('laravel-elixir');
 
 var config = Elixir.config;
 var Task = Elixir.Task;
